@@ -1,4 +1,4 @@
-### toilet-map
+# toilet-map
 和歌山県内観光地の主な公共トイレを掲載したものです。
 
 ###（GitHubアカウント「wakayama-pref-org」について）
