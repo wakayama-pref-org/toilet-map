@@ -6,8 +6,9 @@
 
 ###（ライセンス）
 　掲載している各種データについては、
-[クリエイティブ・コモンズ・ライセンス 表示 2.1](http://creativecommons.org/licenses/by/2.1/jp/)
-![クリエイティブ・コモンズ 表示 2.1 日本ライセンス ](http://i.creativecommons.org/l/by/2.1/jp/88x31.png) のもとでライセンスされています。
+[クリエイティブ・コモンズ・ライセンス表示4.0国際](https://creativecommons.org/licenses/by/4.0/deed.ja)
+![クリエイティブ・コモンズ 表示 4.0 国際 ライセンス](https://licensebuttons.net/l/by/4.0/88x31.png)
+ のもとでライセンスされています。
 
 ###（免責）
 　「wakayama-pref-org」に掲載されるデータ使用、名称や内容等の改変や削除、サービスの停止等により、利用者及び第三者に生じた損害等については、和歌山県は一切責任を負いません。
