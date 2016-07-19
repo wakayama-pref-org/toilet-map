@@ -1,0 +1,467 @@
+<markers>
+<marker no="1" category="normal" city="arida" name="地ノ島海水浴場公衆トイレ" address="有田市初島町浜地ノ島地内" lat="34.113199" lng="135.101861"/>
+<marker no="2" category="normal" city="arida" name="くまの古道ふれあい広場公衆トイレ" address="有田市宮崎町1238" lat="34.075184" lng="135.1015274"/>
+<marker no="3" category="tamoku" city="arida" name="JR箕島駅前公衆トイレ" address="有田市箕島地内" lat="34.0861539" lng="135.1249533"/>
+<marker no="4" category="tamoku" city="arida" name="ウエノ公園公衆トイレ" address="有田市宮崎町1166-1" lat="34.078920" lng="135.119532" baby="" hot="" bed="" osto="" />
+<marker no="5" category="tamoku" city="arida" name="有田市近畿自然歩道公衆トイレ" address="有田市宮原町畑409-4" lat="34.100005" lng="135.178652" baby="" hot="" bed="" osto="" />
+<marker no="1" category="tamoku" city="aridagawa" name="田口砂防公園公衆トイレ" address="有田川町田口1011" lat="34.086014" lng="135.195497" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="2" category="tamoku" city="aridagawa" name="千葉の森公園公衆トイレ" address="有田川町大賀畑地内" lat="34.094748" lng="135.205248"/>
+<marker no="3" category="normal" city="aridagawa" name="鷲ヶ峰コスモスパーク公衆トイレ" address="有田川町長谷611" lat="34.092767" lng="135.235338"/>
+<marker no="4" category="tamoku" city="aridagawa" name="鷲ヶ峰コスモスパーク「風の館」公衆トイレ" address="有田川町長谷611" lat="34.093059" lng="135.234411" baby="" hot="" bed="" osto="" />
+<marker no="5" category="tamoku" city="aridagawa" name="JR藤並駅公衆トイレ（西口側）" address="有田川町明王寺34-7" lat="34.057209" lng="135.196389" baby="乳幼児用設備" hot="" bed="" osto="" />
+<marker no="6" category="tamoku" city="aridagawa" name="JR藤並駅公衆トイレ（東口側）" address="有田川町明王寺128-2" lat="34.057082" lng="135.196672" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="7" category="tamoku" city="aridagawa" name="花の里河川公園公衆トイレ" address="有田川町庄921" lat="34.071677" lng="135.235884" baby="" hot="" bed="" osto="" />
+<marker no="8" category="tamoku" city="aridagawa" name="花の里公園公衆トイレ" address="有田川町庄地内921" lat="34.071762" lng="135.234522" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="9" category="tamoku" city="aridagawa" name="明恵の里スポーツ公園公衆トイレ" address="有田川町中井原738-2" lat="34.056778" lng="135.262501" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="10" category="tamoku" city="aridagawa" name="金屋河川敷公衆トイレ" address="有田川町金屋900" lat="34.056520" lng="135.253338" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="11" category="tamoku" city="aridagawa" name="旧金屋庁舎前公衆トイレ" address="有田川町金屋3" lat="34.064384" lng="135.253688" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="12" category="tamoku" city="aridagawa" name="道の駅「しらまの里」公衆トイレ" address="有田川町宇井苔213-1" lat="34.015088" lng="135.334558" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="13" category="tamoku" city="aridagawa" name="道の駅「明恵ふるさと館」公衆トイレ" address="有田川町金屋322-1" lat="34.054121" lng="135.262790" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="14" category="normal" city="aridagawa" name="金屋テニス公園公衆トイレ" address="有田川町吉原1138-1" lat="34.045898" lng="135.248664"/>
+<marker no="15" category="tamoku" city="aridagawa" name="吉原若者広場公衆トイレ" address="有田川町吉原1828" lat="34.044437" lng="135.248021"/>
+<marker no="16" category="normal" city="aridagawa" name="二川ダム公園公衆トイレ" address="有田川町二川509-2" lat="34.078728" lng="135.358023"/>
+<marker no="17" category="tamoku" city="aridagawa" name="楠本公衆トイレ" address="有田川町楠本地内(国道沿い)" lat="34.091637" lng="135.368283" baby="" hot="" bed="" osto="" />
+<marker no="18" category="tamoku" city="aridagawa" name="楠本札立峠公衆トイレ" address="有田川町楠本1490-82" lat="34.115999" lng="135.346724" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="19" category="tamoku" city="aridagawa" name="道の駅「あらぎの里」公衆トイレ" address="有田川町三田662-1" lat="34.093066" lng="135.412911" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="20" category="tamoku" city="aridagawa" name="三田コミュニティセンター公衆トイレ" address="有田川町三田地内" lat="34.093245" lng="135.417454"/>
+<marker no="21" category="normal" city="aridagawa" name="しみず温泉前公衆トイレ" address="有田川町清水1224-2" lat="34.082553" lng="135.431985"/>
+<marker no="22" category="tamoku" city="aridagawa" name="有田川町鉄道交流館公衆トイレ" address="有田川町徳田124-1" lat="34.065604" lng="135.246414"/>
+<marker no="23" category="tamoku" city="aridagawa" name="道の駅「しみず」公衆トイレ" address="有田川町清水607" lat="34.088278" lng="135.443519" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="24" category="normal" city="aridagawa" name="清水町公衆トイレ" address="" lat="34.117901" lng="135.503684"/>
+<marker no="25" category="normal" city="aridagawa" name="境川公衆トイレ" address="有田川町境川地内" lat="34.089908" lng="135.390724"/>
+<marker no="1" category="normal" city="gobou" name="ふれあい水辺公園藤井公衆トイレ" address="御坊市藤田町藤井地内" lat="33.905703" lng="135.176625" baby="" hot="" bed="" osto="" />
+<marker no="2" category="tamoku" city="gobou" name="ふれあい水辺公園せせらぎ広場公衆トイレ" address="御坊市野口地内" lat="33.902894" lng="135.189303" baby="" hot="" bed="" osto="" />
+<marker no="3" category="normal" city="gobou" name="野口オートキャンプ場" address="御坊市野口地内" lat="33.897406" lng="135.193113" baby="" hot="" bed="" osto="" />
+<marker no="4" category="tamoku" city="gobou" name="日高港塩屋緑地公衆トイレ" address="御坊市塩屋町南塩屋地内" lat="33.867235" lng="135.159807" baby="" hot="" bed="" osto="" />
+<marker no="1" category="tamoku" city="hasimoto" name="嵯峨谷農村公園前公衆トイレ" address="橋本市高野口町嵯峨谷地内" lat="34.340716" lng="135.538382" />
+<marker no="2" category="tamoku" city="hasimoto" name="JR高野口駅前公衆トイレ" address="橋本市高野口町名倉7902" lat="34.307645" lng="135.556664" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="3" category="tamoku" city="hasimoto" name="恋野あじさい公園公衆トイレ" address="橋本市隅田町恋野地内" lat="34.315873" lng="135.664455" baby="乳幼児用設備" hot="" bed="" osto="" />
+<marker no="4" category="tamoku" city="hasimoto" name="杉尾公衆トイレ" address="橋本市杉尾地内" lat="34.370089" lng="135.641399" />
+<marker no="5" category="tamoku" city="hasimoto" name="JR橋本駅前公衆トイレ" address="橋本市古佐田1丁目4-51" lat="34.318034" lng="135.614573" baby="乳幼児用設備" hot="" bed="" osto="オストメイト" />
+<marker no="6" category="normal" city="hasimoto" name="国城山公衆トイレ" address="橋本市国城原地内" lat="34.292045" lng="135.609983"/>
+<marker no="7" category="tamoku" city="hasimoto" name="くにぎふれあいの里観光公衆トイレ" address="橋本市" lat="34.294702" lng="135.598815" baby="" hot="" bed="" osto="オストメイト"/>
+<marker no="8" category="tamoku" city="hasimoto" name="隠れ谷池公衆トイレ" address="橋本市清水220-4" lat="34.305155" lng="135.604791" baby="" hot="温水洗浄便座" bed="" osto=""/>
+<marker no="9" category="tamoku" city="hasimoto" name="やどり温泉いやしの湯公衆トイレ" address="橋本市北宿5" lat="34.256906" lng="135.651262" baby="" hot="温水洗浄便座" bed="" osto=""/>
+<marker no="10" category="tamoku" city="hasimoto" name="神野々キャンプ場公衆トイレ" address="橋本市神野々地内" lat="34.301733" lng="135.581810" />
+<marker no="11" category="normal" city="hasimoto" name="高野口公園公衆トイレ1（ステージ前）" address="橋本市高野口町名倉地内" lat="34.310199" lng="135.558946"/>
+<marker no="12" category="normal" city="hasimoto" name="高野口公園公衆トイレ2（八幡神社駐車場横）" address="橋本市高野口町名倉地内" lat="34.310360" lng="135.558294"/>
+<marker no="13" category="normal" city="hasimoto" name="高野口公園公衆トイレ3（休憩所横）" address="橋本市高野口町名倉地内" lat="34.310932" lng="135.558724"/>
+<marker no="14" category="tamoku" city="hasimoto" name="紀望の里" address="橋本市高野口町大野1807-1" lat="34.319913" lng="135.544829" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="15" category="tamoku" city="hasimoto" name="せせらぎ公園公衆トイレ" address="橋本市高野口町名倉191先外" lat="34.302879" lng="135.552371" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="16" category="tamoku" city="hasimoto" name="農業ふれあい公園おもてなし公衆トイレ" address="橋本市岸上106-3" lat="34.310643" lng="135.586705" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="1" category="tamoku" city="hidaka" name="日高町役場横公衆トイレ" address="日高町高家626" lat="33.925867" lng="135.141271" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="2" category="tamoku" city="hidaka" name="谷口公衆トイレ" address="日高町" lat="33.948552" lng="135.096201" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="3" category="tamoku" city="hidaka" name="温泉館「海の里」みちしおの湯公衆トイレ" address="日高町方杭100" lat="33.938241" lng="135.087008" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="4" category="tamoku" city="hidaka" name="比井地区公衆トイレ" address="日高町比井79-1" lat="33.918171" lng="135.079392" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="5" category="tamoku" city="hidaka" name="産湯パブリックトイレ" address="日高町産湯728-1" lat="33.907376" lng="135.082784" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="6" category="tamoku" city="hidaka" name="阿尾漁港内公衆トイレ" address="日高町阿尾108-4" lat="33.902657" lng="135.076934" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="7" category="tamoku" city="hidaka" name="金魚茶屋駐車場公衆トイレ" address="日高町原谷900" lat="33.975951" lng="135.169814" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="8" category="normal" city="hidaka" name="小中公衆トイレ" address="日高町小中" lat="33.924181" lng="135.1308616"/>
+<marker no="9" category="tamoku" city="hidaka" name="小浦地区公衆トイレ" address="日高町小浦86-3" lat="33.927443" lng="135.073744" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="10" category="normal" city="hidaka" name="萩原公衆トイレ" address="日高町荻原" lat="33.9299075" lng="135.141346"/>
+<marker no="11" category="tamoku" city="hidaka" name="高家地区公衆トイレ" address="日高町高家914" lat="33.917801" lng="135.137863" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="12" category="tamoku" city="hidaka" name="クヌッセン機関長救命艇展示施設公衆トイレ" address="日高町阿尾地内" lat="33.894559" lng="135.065246" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="13" category="tamoku" city="hidaka" name="内原王子神社公衆トイレ" address="日高町大字萩原1670" lat="33.934831" lng="135.140262" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="1" category="tamoku" city="hidakagawa" name="かわべテニス公園公衆トイレ" address="日高川町和佐2095" lat="33.895769" lng="135.213638" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="2" category="tamoku" city="hidakagawa" name="JR和佐駅前公衆トイレ" address="日高川町和佐1429-1" lat="33.897416" lng="135.207456" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="3" category="normal" city="hidakagawa" name="森林公園公衆トイレ" address="日高川町大字初湯川地内" lat="33.956654" lng="135.384787" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="4" category="normal" city="hidakagawa" name="大滝川森林公園公衆トイレ" address="日高川町山野2021" lat="33.898110" lng="135.267825"/>
+<marker no="5" category="tamoku" city="hidakagawa" name="道の駅「San Pin」中津公衆トイレ" address="日高川町船津820" lat="33.950253" lng="135.263339" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="6" category="tamoku" city="hidakagawa" name="寒川公衆トイレ" address="日高川町寒川137-1" lat="33.954684" lng="135.465913" baby="" hot="" bed="" osto="オストメイト" />
+<marker no="7" category="normal" city="hidakagawa" name="鳴滝キャンプ場管理棟公衆トイレ" address="日高川町高津尾1471-2" lat="33.948887" lng="135.301098"/>
+<marker no="8" category="normal" city="hidakagawa" name="第2鳴滝キャンプ場管理棟公衆トイレ" address="日高川町高津尾1013-3" lat="33.950799" lng="135.296237" />
+<marker no="9" category="tamoku" city="hidakagawa" name="第2鳴滝キャンプ場前公衆トイレ" address="日高川町高津尾1013-4" lat="33.950986" lng="135.296572" baby="" hot="" bed="" osto="オストメイト" />
+<marker no="10" category="normal" city="hidakagawa" name="鷲の川渓流アマゴ釣り公園公衆トイレ" address="日高川町田尻550-8" lat="33.929578" lng="135.336065"/>
+<marker no="11" category="tamoku" city="hidakagawa" name="日高川町役場美山支所前公衆トイレ" address="日高川町川原河202-1" lat="33.981866" lng="135.366852" baby="乳幼児施設" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="12" category="tamoku" city="hidakagawa" name="美山若者広場公衆トイレ" address="日高川町初湯川1911-14" lat="33.959886" lng="135.387581" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="13" category="tamoku" city="hidakagawa" name="日高川ふれあいドーム公衆トイレ" address="日高川町高津尾1046" lat="33.957801" lng="135.295302" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="14" category="normal" city="hidakagawa" name="グリーンパーク椿山公衆トイレ" address="日高川町初湯川1881-3" lat="33.965124" lng="135.392786"/>
+<marker no="15" category="tamoku" city="hidakagawa" name="浪瀬公衆トイレ" address="日高川町初湯川1949-1" lat="33.965030" lng="135.396660" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="16" category="tamoku" city="hidakagawa" name="猪谷パーク公衆トイレ" address="日高川町初湯川1737" lat="33.967621" lng="135.421752" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="17" category="tamoku" city="hidakagawa" name="かわべ天文公園駐車場公衆トイレ" address="日高川町和佐2106-1" lat="33.894132" lng="135.214154" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="18" category="tamoku" city="hidakagawa" name="かわべ天文公園コスモポート公衆トイレ" address="日高川町和佐2107-1" lat="33.894619" lng="135.216957" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="19" category="tamoku" city="hidakagawa" name="かわべ天文公園コスモポート歓星棟公衆トイレ" address="日高川町和佐2107-1" lat="33.894783" lng="135.217429" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="20" category="normal" city="hidakagawa" name="愛徳荘公衆トイレ" address="日高川町初湯川202" lat="33.959372" lng="135.386508" />
+<marker no="21" category="tamoku" city="hidakagawa" name="愛徳荘ログハウス公衆トイレ" address="日高川町初湯川202" lat="33.959240" lng="135.386927" />
+<marker no="1" category="tamoku" city="hirogawa" name="広川町観光案内所公衆トイレ" address="広川町大字山本1959" lat="34.02596" lng="135.17312" baby="" hot="温水洗浄便座" bed="" osto=""/>
+<marker no="2" category="tamoku" city="hirogawa" name="広川ビーチ駅（ふれあい館）公衆トイレ" address="広川町山本971-1" lat="34.013170" lng="135.163580" baby="" hot="温水洗浄便座" bed="" osto="オストメイト"/>
+<marker no="3" category="normal" city="hirogawa" name="小浦公衆トイレ" address="広川町大字山本1897" lat="34.019608" lng="135.152094"/>
+<marker no="4" category="tamoku" city="hirogawa" name="稲村火の館公衆トイレ" address="広川町広671" lat="34.025884" lng="135.173021" baby="" hot="温水洗浄便座" bed="" osto=""/>
+<marker no="5" category="tamoku" city="hirogawa" name="東濱口公園公衆トイレ" address="広川町広1292-2" lat="34.0265421" lng="135.1718822" baby="" hot="温水洗浄便座" bed="" osto=""/>
+<marker no="6" category="normal" city="hirogawa" name="樫長公衆トイレ" address="広川町大字西広1317-4" lat="34.013828" lng="135.146338"/>
+<marker no="7" category="normal" city="hirogawa" name="西広ふれあいの森公衆トイレ" address="広川町大字西広1-7" lat="34.009026" lng="135.151821"/>
+<marker no="8" category="tamoku" city="hirogawa" name="男山焼会館公衆トイレ" address="広川町大字上中野88-2" lat="34.015665" lng="135.178220" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="9" category="normal" city="hirogawa" name="霊巖寺公衆トイレ" address="広川町大字前田501-1" lat="34.007137" lng="135.222987"/>
+<marker no="10" category="normal" city="hirogawa" name="広川ダム下公衆トイレ" address="広川町大字下津木1619番地先" lat="33.973988" lng="135.231846"/>
+<marker no="11" category="tamoku" city="hirogawa" name="広川町役場前公衆トイレ" address="広川町広1473" lat="34.030067" lng="135.172973" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="12" category="tamoku" city="hirogawa" name="広川ダム公園公衆トイレ" address="広川町大字下津木1756-1" lat="33.980374" lng="135.244495" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="13" category="tamoku" city="hirogawa" name="熊野古道公衆トイレ" address="広川町大字河瀬172" lat="33.996362" lng="135.193967" baby="" hot="" bed="" osto="" />
+<marker no="14" category="tamoku" city="hirogawa" name="濱口悟陵史跡散策公衆トイレ" address="広川町広671" lat="34.005722" lng="135.143375" />
+<marker no="15" category="tamoku" city="hirogawa" name="広公民館公衆トイレ" address="広川町広538-1" lat="34.025901" lng="135.17423" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="16" category="tamoku" city="hirogawa" name="西・北集会所公衆トイレ" address="広川町広241-1" lat="34.029401" lng="135.178428" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="17" category="normal" city="hirogawa" name="熊之町集会所公衆トイレ" address="広川町広66-2" lat="34.026953" lng="135.181775" />
+<marker no="18" category="normal" city="hirogawa" name="津木の里散策公衆トイレ" address="広川町大字上津木地内" lat="33.996362" lng="135.193967" />
+<marker no="19" category="tamoku" city="hirogawa" name="広村堤防公衆トイレ" address="広川町広地内" lat="34.027104" lng="135.171267" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="1" category="tamoku" city="inami" name="共栄公園公衆トイレ" address="印南町大字宮ノ前355-3" lat="33.8257628" lng="135.254052" baby="" hot="温水洗浄便座" bed="" osto="オストメイト"/>
+<marker no="2" category="tamoku" city="inami" name="印南原駅前公衆トイレ" address="印南町印南2645-2" lat="33.8180145" lng="135.2197418" baby="" hot="温水洗浄便座" bed="" osto="オストメイト"/>
+<marker no="3" category="normal" city="inami" name="印南浜公園公衆トイレ" address="印南町大字印南4485-34" lat="33.8134758" lng="135.2136479"/>
+<marker no="4" category="tamoku" city="inami" name="真妻公衆トイレ" address="印南町" lat="33.8884514" lng="135.3141485" baby="" hot="温水洗浄便座" bed="" osto="オストメイト"/>
+<marker no="5" category="normal" city="inami" name="アグリコミュニティセンター" address="印南町印南原4931" lat="33.8588332" lng="135.2334846"/>
+<marker no="1" category="tamoku" city="iwade" name="県植物公園緑化センター（本館事務所）" address="岩出市東坂本672" lat="34.286080" lng="135.327135" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="2" category="tamoku" city="iwade" name="県植物公園緑化センター（駐車場南側）" address="岩出市東坂本672" lat="34.286132" lng="135.326837" baby="" hot="" bed="" osto="" />
+<marker no="3" category="tamoku" city="iwade" name="県植物公園緑化センター（別館展示室）" address="岩出市東坂本672" lat="34.286498" lng="135.327776" baby="" hot="" bed="" osto="オストメイト" />
+<marker no="4" category="normal" city="iwade" name="根来寺公衆トイレ（西側）" address="岩出市根来2286" lat="34.286082" lng="135.316748"/>
+<marker no="5" category="tamoku" city="iwade" name="根来寺公衆トイレ（北側）" address="岩出市根来2284" lat="34.286689" lng="135.317555" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="6" category="tamoku" city="iwade" name="道の駅「根来さくらの里」公衆トイレ" address="岩出市押川37-1" lat="34.311848" lng="135.306987" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="7" category="tamoku" city="iwade" name="岩出市民族資料館トイレ" address="岩出市根来地内" lat="34.2858206" lng="135.3177317" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="1" category="tamoku" city="kainan" name="藤白神社" address="海南市藤白434-1" lat="34.144338" lng="135.209356" baby="乳幼児用設備" hot="" bed="" osto="" />
+<marker no="2" category="tamoku" city="kainan" name="亀池広場公衆トイレ" address="海南市阪井452" lat="34.155755" lng="135.259237" baby="" hot="" bed="" osto="オストメイト" />
+<marker no="3" category="tamoku" city="kainan" name="JR加茂郷駅前公衆トイレ" address="海南市下津町黒田45-2" lat="34.126075" lng="135.159912"/>
+<marker no="4" category="tamoku" city="kainan" name="JR下津駅前公衆トイレ" address="海南市下津町下津" lat="34.109125" lng="135.145524" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="5" category="tamoku" city="kainan" name="JR海南駅公衆トイレ" address="海南市名高187-8" lat="34.154604" lng="135.214326" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="6" category="tamoku" city="kainan" name="藤白塔下王子跡公衆トイレ" address="海南市下津町橘本1614-3" lat="34.136764" lng="135.199295" baby="" hot="" bed="" osto="オストメイト" />
+<marker no="7" category="normal" city="kainan" name="長保寺" address="海南市下津町上689" lat="34.108613" lng="135.165399"/>
+<marker no="8" category="normal" city="kainan" name="善福院" address="海南市下津町梅田270" lat="34.130841" lng="135.177248"/>
+<marker no="9" category="tamoku" city="kainan" name="紀州漆器伝統産業館内公衆トイレ" address="海南市船尾222" lat="34.160648" lng="135.203501" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="1" category="tamoku" city="kamitonda" name="若もの広場公衆トイレ" address="上富田町市ノ瀬2504" lat="33.715524" lng="135.460407" baby="" hot="暖房温水便座" bed="" osto="オストメイト" />
+<marker no="2" category="tamoku" city="kamitonda" name="彦五郎公園公衆トイレ" address="上富田町生馬523-3" lat="33.694458" lng="135.432528" baby="" hot="暖房温水便座" bed="" osto="" />
+<marker no="3" category="tamoku" city="kamitonda" name="市ノ瀬小山公衆トイレ" address="" lat="33.7134198" lng="135.4599264" baby="" hot="暖房温水便座" bed="" osto="オストメイト" />
+<marker no="4" category="normal" city="kamitonda" name="稲葉根王子公衆トイレ" address="上富田町岩田地内" lat="33.712629" lng="135.453832"/>
+<marker no="5" category="tamoku" city="kamitonda" name="八上王子公衆トイレ" address="上富田町岡1383" lat="33.726732" lng="135.440056" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="6" category="tamoku" city="kamitonda" name="JR下津駅前公衆トイレ" address="上富田町生馬地内" lat="33.689267" lng="135.441249" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="7" category="tamoku" city="kamitonda" name="道の駅「くちくまの公衆館」公衆トイレ" address="上富田町" lat="33.691008" lng="135.427053" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="8" category="tamoku" city="kamitonda" name="JR朝来駅前公衆トイレ" address="上富田町朝来" lat="33.696441" lng="135.417588" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="1" category="tamoku" city="katuragi" name="道の駅「紀の川万葉の里」公衆トイレ" address="かつらぎ町窪地内" lat="34.284519" lng="135.464521" baby="乳幼児用設備" hot="温水洗浄便座" bed="介護用ベッド" osto="オストメイト" />
+<marker no="2" category="tamoku" city="katuragi" name="柿の茶屋公衆トイレ" address="かつらぎ町西飯降地内" lat="34.314179" lng="135.526152" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="3" category="tamoku" city="katuragi" name="町石道神田地内公衆トイレ" address="かつらぎ町神田地内" lat="34.250508" lng="135.528018" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="4" category="tamoku" city="katuragi" name="丹生都比売神社公衆トイレ" address="かつらぎ町上天野地内" lat="34.263095" lng="135.521218" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="5" category="normal" city="katuragi" name="花園久木公衆トイレ" address="かつらぎ町花園久木地内" lat="34.150755" lng="135.571823"/>
+<marker no="6" category="tamoku" city="katuragi" name="花園中南公衆トイレ" address="かつらぎ町花園中南地内" lat="34.135760" lng="135.570227" baby="" hot="" bed="" osto="" />
+<marker no="7" category="tamoku" city="katuragi" name="花園北寺公衆トイレ" address="かつらぎ町花園北寺地内" lat="34.131757" lng="135.524309" baby="" hot="" bed="" osto="" />
+<marker no="8" category="normal" city="katuragi" name="花園梁瀬公衆トイレ" address="かつらぎ町花園梁瀬地内" lat="34.137876" lng="135.517801"/>
+<marker no="9" category="tamoku" city="katuragi" name="花園臼谷公衆トイレ" address="かつらぎ町花園梁瀬地内" lat="34.155509" lng="135.504438" baby="" hot="" bed="" osto="" />
+<marker no="10" category="tamoku" city="katuragi" name="高野龍神スカイライン公衆トイレ" address="かつらぎ町花園久木地内" lat="34.147165" lng="135.586989" baby="乳幼児用設備" hot="" bed="" osto="" />
+<marker no="11" category="tamoku" city="katuragi" name="堀越公衆トイレ" address="かつらぎ町東谷地内" lat="34.340387" lng="135.501800" baby="" hot="" bed="" osto="" />
+<marker no="12" category="tamoku" city="katuragi" name="JR妙寺駅前公衆トイレ" address="かつらぎ町丁ノ町2228-10" lat="34.298453" lng="135.517623" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="13" category="tamoku" city="katuragi" name="大久保公衆トイレ" address="かつらぎ町" lat="34.343867" lng="135.483372" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="14" category="tamoku" city="katuragi" name="かつらぎ公園公衆トイレ" address="かつらぎ町新田2530" lat="34.295595" lng="135.516518" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="15" category="tamoku" city="katuragi" name="JR笠田駅前公衆トイレ" address="かつらぎ町大字笠田東20-13" lat="34.292175" lng="135.480245" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="16" category="tamoku" city="katuragi" name="宝来山神社公衆トイレ" address="かつらぎ町萩原56" lat="34.291673" lng="135.468828" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="17" category="tamoku" city="katuragi" name="平和公園公衆トイレ" address="かつらぎ町大字丁ノ町2530-10" lat="34.295274" lng="135.519449" baby="" hot="" bed="" osto="" />
+<marker no="18" category="tamoku" city="katuragi" name="JR中飯降駅公衆トイレ" address="かつらぎ町中飯降地内" lat="34.304255" lng="135.531954" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="19" category="tamoku" city="katuragi" name="河南観光農園公衆トイレ" address="かつらぎ町" lat="34.285699" lng="135.492907" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="20" category="tamoku" city="katuragi" name="志賀ほたるの里公衆トイレ" address="かつらぎ町" lat="34.221779" lng="135.503479" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="21" category="tamoku" city="katuragi" name="丹生都比売神社公衆トイレ（第1駐車場）" address="かつらぎ町上天野230" lat="34.263911" lng="135.520899" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="1" category="normal" city="kimino" name="小川宮前公衆トイレ" address="紀美野町奥佐々21-2" lat="34.133207" lng="135.327354"/>
+<marker no="2" category="tamoku" city="kimino" name="紀美野町のかみふれあい公園公衆トイレ" address="紀美野町西野971-1" lat="34.179805" lng="135.348222" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="3" category="tamoku" city="kimino" name="生石高原童謡公衆トイレ" address="紀美野町中田899-29" lat="34.105312" lng="135.327384" baby="乳幼児用設備" hot="" bed="" osto="" />
+<marker no="4" category="tamoku" city="kimino" name="真国公衆トイレ" address="紀美野町動木287" lat="34.167218" lng="135.307528" baby="" hot="温水洗浄設備" bed="" osto="" />
+<marker no="5" category="tamoku" city="kimino" name="小西公衆トイレ" address="紀美野町小西169-7" lat="34.152121" lng="135.310897" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="6" category="tamoku" city="kimino" name="みさと天文台公衆トイレ" address="紀美野町松ヶ峯180" lat="34.144677" lng="135.406516"/>
+<marker no="1" category="tamoku" city="kinokawa" name="大池遊園駅前公衆トイレ" address="紀の川市貴志川町長山" lat="34.204725" lng="135.285455" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="2" category="tamoku" city="kinokawa" name="大門橋前駐車場公衆トイレ" address="紀の川市粉河2060" lat="34.278075" lng="135.404218" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="3" category="normal" city="kinokawa" name="貴志川観光いちご狩り園公衆トイレ" address="紀の川市粉河870" lat="34.216270" lng="135.316334"/>
+<marker no="4" category="normal" city="kinokawa" name="細野渓流キャンプ場バンガロー旧トイレ" address="紀の川市桃山町垣内258竏?1" lat="34.188923" lng="135.421085"  />
+<marker no="5" category="normal" city="kinokawa" name="細野渓流キャンプ場バンガロー側新トイレ" address="紀の川市桃山町垣内258-1" lat="34.189201" lng="135.421130"/>
+<marker no="6" category="normal" city="kinokawa" name="細野渓流キャンプ場駐車場トイレ" address="紀の川市桃山町垣内258-1" lat="34.1880637" lng="135.4207245" baby="" hot="" bed="" osto="" />
+<marker no="7" category="tamoku" city="kinokawa" name="紀の川市歴史民俗資料館公衆トイレ" address="紀の川市東国分671" lat="34.267477" lng="135.338779" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="8" category="tamoku" city="kinokawa" name="葛城山公衆トイレ" address="紀の川市切畑地内" lat="34.347842" lng="135.434862"  />
+<marker no="9" category="normal" city="kinokawa" name="粉河ハイランドパーク管理棟公衆トイレ" address="紀の川市中津川地内" lat="34.341705" lng="135.410541"/>
+<marker no="10" category="normal" city="kinokawa" name="最初ヵ峰展望所公衆トイレ" address="紀の川市竹房地内" lat="34.240501" lng="135.369205"/>
+<marker no="11" category="normal" city="kinokawa" name="旧名手本陣" address="紀の川市名手市場641" lat="34.275786" lng="135.435658"/>
+<marker no="12" category="tamoku" city="kinokawa" name="桃山物産センタートイレ" address="紀の川市桃山町市場地内" lat="34.242176" lng="135.344295" baby="" hot="" bed="" osto="" />
+<marker no="13" category="tamoku" city="kinokawa" name="桃源郷運動公園" address="紀の川市桃山町最上1147-11" lat="34.220844" lng="135.356041" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="14" category="tamoku" city="kinokawa" name="平池緑地公園オニバス広場公衆トイレ" address="紀の川市貴志川町神戸地内" lat="34.208809" lng="135.303927" baby="" hot="" bed="" osto="" />
+<marker no="15" category="tamoku" city="kinokawa" name="平池緑地公園野鳥広場公衆トイレ" address="紀の川市貴志川町神戸地内" lat="34.211869" lng="135.300484" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="16" category="normal" city="kinokawa" name="貴志川観光物産センタートイレ" address="紀の川市貴志川町前田135-1" lat="34.218611" lng="135.314468"/>
+<marker no="17" category="tamoku" city="kinokawa" name="大池遊園公衆トイレ" address="紀の川市貴志川町長山地内" lat="34.204397" lng="135.283312" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="1" category="tamoku" city="kitayama" name="小松口園地公衆トイレ" address="北山村小松114-2" lat="33.916028" lng="135.922980" baby="" hot="" bed="" osto="" />
+<marker no="2" category="tamoku" city="kitayama" name="オトノリ園地公衆トイレ" address="北山村下尾井715-3" lat="33.933473" lng="135.919881" baby="" hot="" bed="" osto="" />
+<marker no="3" category="tamoku" city="kitayama" name="道の駅「おくとろ」公衆トイレ" address="北山村下尾井335" lat="33.939295" lng="135.946366" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="4" category="tamoku" city="kitayama" name="七色公園公衆トイレ" address="北山村七色356" lat="33.957121" lng="135.998852" baby="乳幼児用設備" hot="" bed="" osto="" />
+<marker no="5" category="normal" city="kitayama" name="北山村テニスコート公衆トイレ" address="北山村下尾井" lat="33.938032" lng="135.949567" baby="乳幼児用設備" hot="" bed="" osto="" />
+<marker no="6" category="tamoku" city="kitayama" name="北山村オートキャンプ場公衆トイレ" address="北山村下尾井" lat="33.937879" lng="135.950774" baby="乳幼児用設備" hot="" bed="" osto="" />
+<marker no="1" category="normal" city="kouya" name="大門児童公園公衆トイレ" address="高野町大字高野山地内" lat="34.212968" lng="135.575688"/>
+<marker no="2" category="tamoku" city="kouya" name="ちびっこ野球場公衆トイレ" address="高野町大字高野山地内" lat="34.219408" lng="135.593577" baby="" hot="" bed="" osto="" />
+<marker no="3" category="normal" city="kouya" name="金輪公園公衆トイレ" address="高野町大字高野山地内" lat="34.216898" lng="135.581404"/>
+<marker no="4" category="tamoku" city="kouya" name="一の橋公衆トイレ" address="高野町大字高野山地内" lat="34.213643" lng="135.595607" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="5" category="tamoku" city="kouya" name="根本大塔北公衆トイレ" address="高野町大字高野山地内" lat="34.213802" lng="135.580114" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="6" category="tamoku" city="kouya" name="女人堂公衆トイレ" address="高野町大字高野山地内" lat="34.220160" lng="135.580894" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="7" category="tamoku" city="kouya" name="刈萓堂横公衆トイレ" address="高野町大字高野山地内" lat="34.212603" lng="135.593102" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="8" category="tamoku" city="kouya" name="金剛峯寺前公衆トイレ" address="高野町大字高野山地内" lat="34.213243" lng="135.583457" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="9" category="tamoku" city="kouya" name="中門前公衆トイレ" address="高野町大字高野山地内" lat="34.212155" lng="135.579887" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="10" category="tamoku" city="kouya" name="千手院公衆トイレ" address="高野町大字高野山地内" lat="34.213165" lng="135.586709" baby="" hot="" bed="" osto="" />
+<marker no="11" category="tamoku" city="kouya" name="大門公衆トイレ" address="高野町大字高野山地内" lat="34.213437" lng="135.573140" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="12" category="tamoku" city="kouya" name="中の橋駐車場公衆トイレ（立体）" address="高野町大字高野山地内" lat="34.215600" lng="135.604802" baby="" hot="" bed="" osto="" />
+<marker no="13" category="tamoku" city="kouya" name="中の橋（バス停）公衆トイレ" address="高野町大字高野山地内" lat="34.216056" lng="135.603839" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="14" category="tamoku" city="kouya" name="花坂公衆トイレ" address="高野町大字花坂地内" lat="34.220119" lng="135.537405" baby="乳幼児用設備" hot="" bed="" osto="オストメイト" />
+<marker no="15" category="tamoku" city="kouya" name="学習展示館前公衆トイレ" address="高野町大字高野山地内" lat="34.220088" lng="135.597282" baby="乳幼児用設備" hot="" bed="" osto="" />
+<marker no="16" category="normal" city="kouya" name="旧白藤小学校公衆トイレ" address="高野町大字西郷" lat="34.243586" lng="135.572287"/>
+<marker no="1" category="tamoku" city="kozagawa" name="佐田さくらの公衆トイレ" address="古座川町佐田439" lat="33.596172" lng="135.697539" baby="乳幼児用設備" hot="" bed="" osto="" />
+<marker no="2" category="normal" city="kozagawa" name="一枚岩公衆トイレ" address="古座川町相瀬286-1" lat="33.547164" lng="135.717383"/>
+<marker no="3" category="tamoku" city="kozagawa" name="道の駅「一枚岩」公衆トイレ" address="古座川町相瀬290-2" lat="33.545369" lng="135.720532" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="4" category="tamoku" city="kozagawa" name="道の駅「滝の拝太郎」公衆トイレ" address="古座川町小川774" lat="33.601482" lng="135.765431" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="5" category="tamoku" city="kozagawa" name="月野瀬公衆トイレ" address="古座川町月野瀬139" lat="33.536313" lng="135.800230" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="6" category="tamoku" city="kozagawa" name="おおじゃの森公衆トイレ" address="古座川町佐田地内" lat="33.598931" lng="135.693951" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="7" category="tamoku" city="kozagawa" name="鶴川公園公衆トイレ" address="古座川町鶴川" lat="33.527305" lng="135.744446" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="8" category="tamoku" city="kozagawa" name="平井公衆トイレ" address="古座川町" lat="33.000000" lng="135.000000" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="9" category="tamoku" city="kozagawa" name="道の駅「虫喰岩」公衆トイレ" address="古座川町池野山705-1" lat="33.539439" lng="135.826120" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="10" category="tamoku" city="kozagawa" name="高瀬公衆トイレ" address="古座川町" lat="33.000000" lng="135.000000" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="11" category="tamoku" city="kozagawa" name="川口公衆トイレ" address="古座川町" lat="33.000000" lng="135.000000" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="12" category="tamoku" city="kozagawa" name="一雨公衆トイレ" address="古座川町" lat="33.000000" lng="135.000000" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="13" category="tamoku" city="kozagawa" name="蔵土公衆トイレ" address="古座川町" lat="33.000000" lng="135.000000" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="14" category="tamoku" city="kozagawa" name="日南川公衆トイレ" address="古座川町" lat="33.000000" lng="135.000000" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="15" category="tamoku" city="kozagawa" name="ぼたん荘公衆トイレ" address="古座川町" lat="33.000000" lng="135.000000" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="1" category="tamoku" city="kudoyama" name="慈尊院駐車場公衆トイレ" address="九度山町慈尊院854-3" lat="34.293597" lng="135.548531" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="2" category="normal" city="kudoyama" name="入郷児童館前公衆トイレ" address="九度山町入郷82" lat="34.2926025" lng="135.5566231"/>
+<marker no="3" category="normal" city="kudoyama" name="慈尊院トイレ" address="九度山町慈尊院832" lat="34.295374" lng="135.549554"/>
+<marker no="4" category="normal" city="kudoyama" name="紙遊苑公衆トイレ" address="伊都郡九度山町慈尊院749-6" lat="34.293876" lng="135.5484461"/>
+<marker no="5" category="tamoku" city="kudoyama" name="丹生官省符神社公衆トイレ" address="九度山町慈尊院835" lat="34.294389" lng="135.549445" baby="" hot="" bed="" osto="オストメイト" />
+<marker no="6" category="normal" city="kudoyama" name="まちなか休憩所真田憩い茶屋 真田庵公衆トイレ" address="九度山町九度山地内" lat="34.290742" lng="135.562929"/>
+<marker no="7" category="tamoku" city="kudoyama" name="丹生川駐車場公衆トイレ（南）" address="九度山町丹生川246-1" lat="34.271735" lng="135.596915" baby="" hot="" bed="" osto="" />
+<marker no="8" category="tamoku" city="kudoyama" name="九度山駐車場公衆トイレ" address="九度山町九度山地内" lat="34.290708" lng="135.558416" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="9" category="tamoku" city="kudoyama" name="九度山駅前公衆トイレ" address="九度山町九度山地内" lat="34.288222" lng="135.564426" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="10" category="tamoku" city="kudoyama" name="道の駅「柿の郷くどやま」公衆トイレ" address="九度山町入郷5-5" lat="34.293048" lng="135.555696" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="1" category="tamoku" city="kusimoto" name="樫野駐車場公衆トイレ" address="串本町樫野地内" lat="33.468402" lng="135.856463" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="2" category="tamoku" city="kusimoto" name="樫野埼灯台前公衆トイレ" address="串本町樫野地内" lat="33.471383" lng="135.860758" baby="乳幼児用設備" hot="" bed="" osto="" />
+<marker no="3" category="tamoku" city="kusimoto" name="日米修交記念館駐車場公衆トイレ" address="串本町樫野地内" lat="33.461998" lng="135.851384" baby="" hot="" bed="" osto="" />
+<marker no="4" category="tamoku" city="kusimoto" name="ポケットパーク公衆トイレ" address="串本町大島385-1" lat="33.463823" lng="135.798269" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="5" category="tamoku" city="kusimoto" name="潮岬灯台前公衆トイレ" address="串本町潮岬御岬2876-1" lat="33.437987" lng="135.755689" baby="乳幼児用設備" hot="" bed="" osto="" />
+<marker no="6" category="tamoku" city="kusimoto" name="潮岬タワー横公衆トイレ" address="串本町潮岬2706-30" lat="33.438053" lng="135.762290" baby="" hot="" bed="" osto="" />
+<marker no="7" category="tamoku" city="kusimoto" name="馬坂園地公衆トイレ" address="串本町串本字片江生1727-1" lat="33.458738" lng="135.773033" baby="" hot="" bed="" osto="" />
+<marker no="8" category="normal" city="kusimoto" name="橋杭園地公衆トイレ" address="串本町串本2000-12" lat="33.482553" lng="135.788950"/>
+<marker no="9" category="tamoku" city="kusimoto" name="橋杭海水浴場売店公衆トイレ" address="串本町鬮野川1597" lat="33.484482" lng="135.790270" baby="" hot="" bed="" osto="" />
+<marker no="10" category="tamoku" city="kusimoto" name="道の駅「くしもと橋杭岩」公衆トイレ" address="串本町鬮野川1582" lat="33.488284" lng="135.794299" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="11" category="tamoku" city="kusimoto" name="あらふね公衆トイレ" address="串本町田原地内" lat="33.533842" lng="135.876036" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="12" category="tamoku" city="kusimoto" name="重畳山公衆トイレ" address="串本町神野川字西谷579-1" lat="33.524669" lng="135.796093" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="13" category="tamoku" city="kusimoto" name="水門まつり公衆トイレ" address="串本町1557-20" lat="33.460777" lng="135.785702"/>
+<marker no="14" category="normal" city="kusimoto" name="トルコ記念館公衆トイレ" address="串本町樫野1025-26" lat="33.524669" lng="135.858587" baby="" hot="" bed="" osto="" />
+<marker no="15" category="tamoku" city="kusimoto" name="樫野つり公園センター内公衆トイレ" address="串本町樫野1021-13" lat="33.471931" lng="135.851672" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="16" category="normal" city="kusimoto" name="JR古座駅前公衆トイレ" address="串本町西向232" lat="33.519508" lng="135.820892" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="17" category="tamoku" city="kusimoto" name="JR串本駅前公衆トイレ" address="串本町串本33-2" lat="33.475447" lng="135.781895" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="1" category="tamoku" city="mihama" name="潮騒かおる公園公衆トイレ" address="美浜町和田1979" lat="33.892459" lng="135.1254207" baby="" hot="" bed="" osto="" />
+<marker no="2" category="tamoku" city="mihama" name="自衛隊前公衆トイレ" address="美浜町和田1138" lat="33.893959" lng="135.125501" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="3" category="tamoku" city="mihama" name="若者広場公衆トイレ" address="美浜町" lat="33.8931461" lng="135.1060116"/>
+<marker no="4" category="tamoku" city="mihama" name="浜ノ瀬緑地公園内トイレ" address="美浜町浜ノ瀬海浜地" lat="33.878046" lng="135.151319" baby="" hot="" bed="" osto="" />
+<marker no="5" category="tamoku" city="mihama" name="煙樹ヶ浜キャンプ場公衆トイレ" address="美浜町和田1979-12" lat="33.891162" lng="135.128016" baby="" hot="" bed="" osto="" />
+<marker no="6" category="normal" city="mihama" name="西山ピクニック緑地公衆トイレ1" address="日高町日高町産湯" lat="33.911476" lng="135.084233"/>
+<marker no="1" category="tamoku" city="minabe" name="森の鼻休憩所公衆トイレ" address="みなべ町堺578" lat="33.742561" lng="135.328415" baby="乳幼児用設備" hot="" bed="" osto="" />
+<marker no="2" category="tamoku" city="minabe" name="二子の浜公衆トイレ" address="みなべ町埴田1430" lat="33.751369" lng="135.325339" baby="" hot="" bed="" osto="" />
+<marker no="3" category="tamoku" city="minabe" name="岩代公衆トイレ" address="みなべ町西岩代地内" lat="33.780757" lng="135.278992" baby="乳幼児用設備" hot="" bed="" osto="" />
+<marker no="4" category="tamoku" city="minabe" name="岩代大梅林公衆トイレ" address="みなべ町西岩代地内" lat="33.7945652" lng="135.300259" baby="乳幼児用設備" hot="" bed="" osto="" />
+<marker no="5" category="tamoku" city="minabe" name="南部梅林公衆トイレ" address="みなべ町晩稲地内" lat="33.783662" lng="135.344814" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="6" category="tamoku" city="minabe" name="道の駅「みなべうめ振興館」公衆トイレ" address="みなべ町谷口538-1" lat="33.790795" lng="135.327300" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="7" category="normal" city="minabe" name="紀州備長炭振興館内公衆トイレ" address="みなべ町清川1267" lat="33.851291" lng="135.395176" />
+<marker no="8" category="tamoku" city="minabe" name="南部梅林駐車場公衆トイレ" address="みなべ町晩稲地内" lat="33.783662" lng="135.337594" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="9" category="tamoku" city="minabe" name="JR南部駅前公衆トイレ" address="みなべ町芝371-2" lat="33.767486" lng="135.324339" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="10" category="tamoku" city="minabe" name="島ノ瀬ダム公衆トイレ" address="みなべ町東神野川1641-3" lat="33.843384" lng="135.373147" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="11" category="tamoku" city="minabe" name="小目津公園トイレ" address="みなべ町山内地内" lat="33.768411" lng="135.305096" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="12" category="tamoku" city="minabe" name="目津トイレ" address="みなべ町山内地内" lat="33.766961" lng="135.298565" baby="" hot="" bed="" osto="" />
+<marker no="13" category="tamoku" city="minabe" name="うめ振興館内公衆トイレ" address="みなべ町谷口538-1" lat="7907618" lng="135.3271937" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="1" category="tamoku" city="natikatuura" name="那智山表参道公衆トイレ" address="那智勝浦町那智山137" lat="33.790642" lng="135.327097" baby="乳幼児用設備" hot="" bed="" osto="" />
+<marker no="2" category="tamoku" city="natikatuura" name="那智山滝前公衆トイレ" address="那智勝浦町那智山3-15" lat="33.672666" lng="135.889353" baby="" hot="" bed="" osto="" />
+<marker no="3" category="tamoku" city="natikatuura" name="道の駅なち公衆トイレ" address="那智勝浦町浜の宮361-2" lat="33.644580" lng="135.936596" baby="乳幼児用設備" hot="温水洗浄便座" bed="介護用ベッド" osto="オストメイト" />
+<marker no="4" category="tamoku" city="natikatuura" name="大門坂駐車場公衆トイレ" address="那智勝浦町市野々3034-2" lat="33.669148" lng="135.902471" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="5" category="normal" city="natikatuura" name="那智山・熊野交通（駐車場）" address="那智勝浦町那智山442-2" lat="33.668950" lng="135.893166"/>
+<marker no="6" category="tamoku" city="natikatuura" name="朝日公園公衆トイレ（若者広場）" address="那智勝浦町朝日3-136" lat="33.629806" lng="135.938889"/>
+<marker no="7" category="normal" city="natikatuura" name="円満地公園公衆トイレ" address="那智勝浦町大野216" lat="33.663758" lng="135.855226"/>
+<marker no="8" category="normal" city="natikatuura" name="木戸浦グランド場公衆トイレ" address="那智勝浦町天満字木戸浦地内" lat="33.637394" lng="135.936355"/>
+<marker no="9" category="tamoku" city="natikatuura" name="バースハウス公衆トイレ（ブルービーチ那智）" address="那智勝浦町浜ノ宮100-1" lat="33.640002" lng="135.935631" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="10" category="tamoku" city="natikatuura" name="JR紀伊勝浦駅前公衆トイレ" address="那智勝浦町築地地内" lat="33.628519" lng="135.941782" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="11" category="tamoku" city="natikatuura" name="海乃湯公衆トイレ（足湯）" address="那智勝浦町築地7-1181-442" lat="33.626979" lng="135.943945" baby="" hot="" bed="" osto="" />
+<marker no="12" category="tamoku" city="natikatuura" name="バスターミナル公衆トイレ" address="那智勝浦町築地2-3-30" lat="33.627980" lng="135.944601" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="13" category="tamoku" city="natikatuura" name="渡の島公衆トイレ" address="那智勝浦町勝浦485-12" lat="33.626047" lng="135.948619" baby="" hot="" bed="" osto="" />
+<marker no="14" category="tamoku" city="natikatuura" name="下里天満海岸新公衆トイレ" address="那智勝浦町下里地内" lat="33.577220" lng="135.930276" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="15" category="normal" city="natikatuura" name="市屋" address="那智勝浦町市屋地内" lat="33.591149" lng="135.912017"/>
+<marker no="16" category="normal" city="natikatuura" name="大戸平公衆トイレ" address="那智勝浦町口色川地内" lat="33.668979" lng="135.881228"/>
+<marker no="17" category="normal" city="natikatuura" name="地蔵茶屋公衆トイレ" address="那智勝浦町口色川3796-1" lat="33.714368" lng="135.851392"/>
+<marker no="18" category="normal" city="natikatuura" name="JR浦神駅公衆トイレ" address="那智勝浦町浦神375-6" lat="33.560416" lng="135.894015"/>
+<marker no="19" category="normal" city="natikatuura" name="JR下里駅公衆トイレ" address="那智勝浦町下里662" lat="33.582520" lng="135.922396"/>
+<marker no="20" category="normal" city="natikatuura" name="JR宇久井駅公衆トイレ" address="那智勝浦町宇久井62-4" lat="33.662689" lng="135.972600"/>
+<marker no="21" category="normal" city="natikatuura" name="JR湯川駅公衆トイレ" address="那智勝浦町湯川1596-16" lat="33.609531" lng="135.924893"/>
+<marker no="1" category="tamoku" city="singu" name="浮島の森公衆トイレ" address="新宮市浮島3-8" lat="33.726091" lng="135.990548" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="2" category="tamoku" city="singu" name="徐福公園公衆トイレ" address="新宮市徐福1-4-24" lat="33.725961" lng="135.995736" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="3" category="tamoku" city="singu" name="高野坂公衆トイレ" address="新宮市広角地内" lat="33.701787" lng="135.991473" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="4" category="normal" city="singu" name="熊野速玉大社駐車場トイレ" address="新宮市新宮1" lat="33.732190" lng="135.984618"/>
+<marker no="5" category="normal" city="singu" name="丹鶴城公衆トイレ" address="新宮市丹鶴地内" lat="33.729954" lng="135.992535"/>
+<marker no="6" category="tamoku" city="singu" name="黒潮公園公衆トイレ（1）" address="新宮市佐野上地" lat="33.680825" lng="135.976068" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="7" category="tamoku" city="singu" name="黒潮公園公衆トイレ（2）" address="新宮市佐野上地" lat="33.683880" lng="135.981323" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="8" category="tamoku" city="singu" name="道の駅公衆トイレ「瀞峡街道・熊野川」" address="新宮市熊野川町田長地内" lat="33.789737" lng="135.896427" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="9" category="tamoku" city="singu" name="小和瀬公衆トイレ" address="新宮市熊野川町上長井地内" lat="33.762983" lng="135.845757" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="10" category="tamoku" city="singu" name="まちなか観光情報センター公衆トイレ" address="新宮市浮島6" lat="33.7267171" lng="135.9912004" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="11" category="normal" city="singu" name="小口自然の家トイレ" address="新宮市熊野川町上長井398" lat="33.759801" lng="135.840827"/>
+<marker no="12" category="tamoku" city="singu" name="小口キャンプ場" address="新宮市熊野川町西地内" lat="33.760979" lng="135.839668" baby="" hot="" bed="" osto="" />
+<marker no="13" category="tamoku" city="singu" name="三輪崎漁港交流施設" address="新宮市三輪崎1" lat="33.684954" lng="135.987810" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="14" category="normal" city="singu" name="神倉神社公衆トイレ" address="新宮市神倉1-13-8" lat="33.724558" lng="135.984222"/>
+<marker no="15" category="normal" city="singu" name="高田グリーンランドトイレ" address="新宮市高田1810" lat="33.727596" lng="135.9106865"/>
+<marker no="16" category="normal" city="singu" name="新宮港緑地公衆トイレ" address="新宮市三輪崎" lat="33.6828085" lng="135.9805702"/>
+<marker no="17" category="tamoku" city="singu" name="JR三輪崎駅公衆トイレ" address="新宮市三輪崎1-5-30" lat="33.689363" lng="135.984860" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="18" category="tamoku" city="singu" name="JR紀伊佐野駅公衆トイレ" address="新宮市佐野3-9-2" lat="33.680108" lng="135.970925" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="1" category="tamoku" city="sirahama" name="崎の湯公衆トイレ" address="白浜町1688" lat="33.6768216" lng="135.3369493"/>
+<marker no="2" category="tamoku" city="sirahama" name="JR紀伊富田駅前公衆トイレ" address="白浜町栄" lat="33.652768" lng="135.39345" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="3" category="tamoku" city="sirahama" name="大辺路街道休息所公衆トイレ" address="" lat="33.6503918" lng="135.4149464" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="4" category="normal" city="sirahama" name="安居辻松峠公衆トイレ" address="" lat="33.637482" lng="135.413597" baby="" hot="" bed="" osto="" />
+<marker no="5" category="tamoku" city="sirahama" name="白良浜公衆トイレ（たこ公園前）" address="白浜町864" lat="33.683913" lng="135.344199" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="6" category="tamoku" city="sirahama" name="向平キャンプ場公衆トイレ" address="白浜町久木27" lat="33.634321" lng="135.467179"/>
+<marker no="7" category="tamoku" city="sirahama" name="白良浜公衆トイレ（薬師堂前）" address="白浜町3121-8" lat="33.682011" lng="135.345357" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="8" category="normal" city="sirahama" name="体験型観光交流施設公衆トイレ" address="" lat="33.6838705" lng="135.3455798" baby="" hot="" bed="" osto="" />
+<marker no="9" category="tamoku" city="sirahama" name="平草原公園公衆トイレ" address="白浜町2054-1" lat="33.671158" lng="135.348762" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="10" category="tamoku" city="sirahama" name="JR椿駅公衆トイレ" address="白浜町椿330-4" lat="33.609760" lng="135.403908" baby="乳幼児用設備" hot="温水洗浄便座" bed="介護用ベッド" osto="オストメイト" />
+<marker no="11" category="tamoku" city="sirahama" name="千畳敷公衆トイレ" address="白浜町2927-75" lat="33.670596" lng="135.330946" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="12" category="tamoku" city="sirahama" name="三段壁公衆トイレ（展望台前）" address="白浜町2927-1823" lat="33.665877" lng="135.335871" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="13" category="tamoku" city="sirahama" name="三段壁公衆トイレ（駐車場）" address="白浜町2927-317" lat="33.665910" lng="135.337308" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="14" category="tamoku" city="sirahama" name="道の駅 志原海岸公衆トイレ" address="白浜町日置2039-73" lat="33.570234" lng="135.431781" baby="" hot="温水洗浄便座" bed="介護用ベッド" osto="オストメイト" />
+<marker no="15" category="tamoku" city="sirahama" name="江津良公衆トイレ" address="白浜町　（江津良海水浴場内）" lat="33.693094" lng="135.350403" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="16" category="tamoku" city="sirahama" name="JR白浜駅公衆トイレ" address="白浜町堅田1475" lat="33.675694" lng="135.387160" baby="乳幼児用設備" hot="" bed="" osto="" />
+<marker no="17" category="tamoku" city="sirahama" name="白鳥公園公衆トイレ" address="白浜町十九渕274-5" lat="33.660912" lng="135.403649" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="18" category="tamoku" city="sirahama" name="近畿自然歩道富田公衆トイレ" address="白浜町富田1206-1" lat="33.642219" lng="135.407186" baby="乳幼児用設備" hot="温水洗浄便座" bed="介護用ベッド" osto="オストメイト" />
+<marker no="19" category="tamoku" city="sirahama" name="椿はなの湯" address="白浜町椿1058-1" lat="33.603275" lng="135.391887" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="20" category="tamoku" city="sirahama" name="綱不知公園公衆トイレ" address="白浜町1162-48" lat="33.685184" lng="135.354035"/>
+<marker no="21" category="tamoku" city="sirahama" name="臨海浦公衆トイレ" address="白浜町3603" lat="33.693530" lng="135.340915"/>
+<marker no="22" category="tamoku" city="sirahama" name="臨海公衆トイレ" address="白浜町508" lat="33.691646" lng="135.339418" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="23" category="tamoku" city="sirahama" name="つくもと公衆トイレ" address="白浜町3079-20" lat="33.679299" lng="135.343473" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="24" category="tamoku" city="sirahama" name="JR紀伊日置駅公衆トイレ" address="白浜町矢田159-2" lat="33.585589" lng="135.457725" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="1" category="tamoku" city="susami" name="日本童謡の園" address="すさみ町江住字崎山142" lat="33.505035" lng="135.588261" baby="" hot="" bed="" osto="" />
+<marker no="2" category="tamoku" city="susami" name="すさみ海水浴場公衆トイレ" address="すさみ町周参見東浜4581-1" lat="33.545258" lng="135.494432" baby="" hot="" bed="" osto="" />
+<marker no="3" category="tamoku" city="susami" name="道の駅イノブータンランドすさみ公衆トイレ" address="すさみ町見老津1-32" lat="33.520605" lng="135.545433" baby="" hot="" bed="" osto="オストメイト" />
+<marker no="4" category="tamoku" city="susami" name="熊野古道和深川公衆トイレ" address="すさみ町口和深258" lat="33.534351" lng="135.539070" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="5" category="tamoku" city="susami" name="熊野古道見老津公衆トイレ" address="すさみ町見老津27-2" lat="33.515473" lng="135.575498" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="6" category="tamoku" city="susami" name="JR周参見駅公衆トイレ" address="すさみ町周参見" lat="33.54685" lng="135.495752" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="7" category="tamoku" city="susami" name="すさみ町総合センター公衆トイレ" address="すさみ町周参見4089" lat="33.549959" lng="135.496696" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="8" category="tamoku" city="susami" name="古座街道（佐本）公衆トイレ" address="" lat="33.5928404" lng="135.6546034" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="9" category="tamoku" city="susami" name="若者ひろば公衆トイレ" address="すさみ町すさみ3827" lat="33.5592417" lng="135.5038637" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="1" category="tamoku" city="taiji" name="JR太地駅公衆トイレ" address="太地町森浦241-1" lat="33.591089" lng="135.927569" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="2" category="tamoku" city="taiji" name="常渡公衆トイレ" address="太地町太地2904-2" lat="33.601559" lng="135.944912" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="3" category="normal" city="taiji" name="くじら浜海水浴場公衆トイレ" address="太地町太地2944-9" lat="33.599968" lng="135.945374"/>
+<marker no="4" category="tamoku" city="taiji" name="捕鯨船隆場公衆トイレ" address="太地町太地地内" lat="33.602886" lng="135.942954" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="5" category="tamoku" city="taiji" name="地藏院前公衆トイレ" address="太地町宇森浦" lat="33.592776" lng="135.942817"/>
+<marker no="6" category="tamoku" city="taiji" name="太地漁港公衆トイレ" address="太地町太地地内" lat="33.589982" lng="135.947809" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="7" category="tamoku" city="taiji" name="太地公園公衆トイレ" address="太地町太地571-1" lat="33.588474" lng="135.952932" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="8" category="tamoku" city="taiji" name="燈明崎公園公衆トイレ" address="太地町太地153-3" lat="33.591802" lng="135.957747" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="9" category="tamoku" city="taiji" name="燈明崎公衆トイレ" address="太地町太地115-5" lat="33.592914" lng="135.960002" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="10" category="tamoku" city="taiji" name="梶取崎公衆トイレ" address="太地町太地1430-1" lat="33.582589" lng="135.956956" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="11" category="tamoku" city="taiji" name="平見台園地公衆トイレ" address="太地町太地1770-30" lat="33.579017" lng="135.951916" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="12" category="tamoku" city="taiji" name="夏山園地公衆便所" address="太地町太地2904－1" lat="33.614258" lng="135.934314" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="13" category="tamoku" city="taiji" name="太地漁港施設内公衆便所" address="太地町太地3393－4" lat="33.590637" lng="135.945825" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="14" category="tamoku" city="taiji" name="町民グラウンド前公衆トイレ" address="太地町平見" lat="33.581264" lng="135.951966" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="1" category="tamoku" city="tanabe" name="奥熊野古道本宮公衆トイレ" address="田辺市本宮町伏拝地内" lat="33.864812" lng="135.762145" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="2" category="tamoku" city="tanabe" name="発心門公衆トイレ（休憩所）" address="田辺市本宮町三越地内" lat="33.861159" lng="135.723575" baby="乳幼児用設備" hot="" bed="" osto="" />
+<marker no="3" category="normal" city="tanabe" name="伏拝公衆トイレ（休憩所）" address="田辺市本宮町伏拝地内" lat="33.860244" lng="135.756998"/>
+<marker no="4" category="normal" city="tanabe" name="八木尾公衆トイレ" address="田辺市本宮町切畑地内" lat="33.877817" lng="135.759845"/>
+<marker no="5" category="normal" city="tanabe" name="船玉広場（赤木越入口）公衆トイレ" address="田辺市本宮町三越地内" lat="33.856210" lng="135.717046"/>
+<marker no="6" category="tamoku" city="tanabe" name="湯峯公衆トイレ（県立）" address="田辺市本宮町湯峯地内" lat="33.827640" lng="135.756738" baby="乳幼児用設備" hot="" bed="" osto="" />
+<marker no="7" category="tamoku" city="tanabe" name="請川公衆トイレ（県立）" address="田辺市本宮町請川地内" lat="33.821762" lng="135.792676" baby="乳幼児用設備" hot="" bed="" osto="オストメイト" />
+<marker no="8" category="tamoku" city="tanabe" name="扇ヶ浜海岸駐車場公衆トイレ" address="田辺市扇ヶ浜地先" lat="33.727569" lng="135.376646" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="9" category="normal" city="tanabe" name="川湯公衆トイレ" address="田辺市本宮町川湯地内" lat="33.812796" lng="135.774475"/>
+<marker no="10" category="tamoku" city="tanabe" name="新川湯広場公衆トイレ" address="田辺市本宮町川湯地内" lat="33.812369" lng="135.772483" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="11" category="tamoku" city="tanabe" name="芳養公園公衆トイレ" address="田辺市芳養町地内" lat="33.750269" lng="135.349349" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="12" category="normal" city="tanabe" name="小雲取公衆トイレ（県立）" address="田辺市本宮町皆瀬川地内" lat="33.797850" lng="135.821588"/>
+<marker no="13" category="tamoku" city="tanabe" name="音無川公衆トイレ" address="田辺市本宮町本宮地内" lat="33.834843" lng="135.773083" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="14" category="normal" city="tanabe" name="水呑王子公衆トイレ" address="田辺市本宮町三越地内" lat="33.858325" lng="135.736729"/>
+<marker no="15" category="tamoku" city="tanabe" name="世界遺産熊野本宮館公衆トイレ（北・南館）" address="田辺市本宮町本宮地内" lat="33.838537" lng="135.775593" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="16" category="tamoku" city="tanabe" name="滝尻公衆トイレ" address="田辺市中辺路町栗栖川地内" lat="33.774931" lng="135.503855" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="17" category="tamoku" city="tanabe" name="牛馬童子公衆トイレ" address="田辺市中辺路町近露地内" lat="33.812079" lng="135.595043" baby="" hot="" bed="" osto="" />
+<marker no="18" category="tamoku" city="tanabe" name="中辺路新滝尻公衆トイレ" address="田辺市中辺路町栗栖川地内" lat="33.775500" lng="135.504547" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="19" category="tamoku" city="tanabe" name="水上公衆トイレ" address="田辺市中辺路町水上地内" lat="33.825749" lng="135.485437" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="20" category="normal" city="tanabe" name="真砂公衆トイレ" address="田辺市中辺路町真砂地内" lat="33.758518" lng="135.497972"/>
+<marker no="21" category="tamoku" city="tanabe" name="野中公衆トイレ" address="田辺市中辺路町野中地内" lat="33.828716" lng="135.635901" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="22" category="tamoku" city="tanabe" name="小広公衆トイレ" address="田辺市中辺路町野中地内" lat="33.835841" lng="135.658716" baby="" hot="" bed="" osto="" />
+<marker no="23" category="tamoku" city="tanabe" name="新近露王子公衆トイレ" address="田辺市中辺路町近露地内" lat="33.814509" lng="135.605904" baby="乳幼児用設備" hot="" bed="" osto="オストメイト" />
+<marker no="24" category="tamoku" city="tanabe" name="近露公衆トイレ" address="田辺市中辺路町近露地内" lat="33.812596" lng="135.606427" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="25" category="normal" city="tanabe" name="十丈王子公衆トイレ" address="田辺市大内川地内" lat="33.800729" lng="135.559467"/>
+<marker no="26" category="normal" city="tanabe" name="乙女の湯公衆トイレ" address="田辺市下川下地内" lat="33.742052" lng="135.585197"/>
+<marker no="27" category="tamoku" city="tanabe" name="ふるさとセンター大塔公衆トイレ" address="田辺市鮎川地内" lat="33.742929" lng="135.502408" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="28" category="tamoku" city="tanabe" name="三軒茶屋公衆トイレ" address="田辺市本宮町大居地内" lat="33.858288" lng="135.775118" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="29" category="tamoku" city="tanabe" name="道の駅「田辺市龍神ごまさんスカイタワー」公衆トイレ（高野龍神国定公園護摩壇山園地公衆トイレ）" address="奈良県吉野郡十津川村大字杉清地内" lat="34.061517" lng="135.564514" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="30" category="normal" city="tanabe" name="大熊公衆トイレ" address="田辺市龍神村龍神地内" lat="33.991408" lng="135.554750"/>
+<marker no="31" category="normal" city="tanabe" name="皆瀬公衆トイレ" address="田辺市龍神村龍神地内" lat="33.967208" lng="135.564849"/>
+<marker no="32" category="tamoku" city="tanabe" name="龍神野営場公衆トイレ" address="田辺市合川637-16" lat="33.893878" lng="135.488790" baby="" hot="" bed="" osto="" />
+<marker no="33" category="tamoku" city="tanabe" name="紀の国新王子公衆トイレ" address="田辺市龍神村龍神地内" lat="33.965252" lng="135.564395" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="34" category="tamoku" city="tanabe" name="龍神温泉公衆トイレ" address="田辺市龍神村龍神59" lat="33.956307" lng="135.562378" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="35" category="normal" city="tanabe" name="殿原公衆トイレ" address="田辺市龍神村殿原1286-2" lat="33.900606" lng="135.533439"/>
+<marker no="36" category="normal" city="tanabe" name="古道ヶ丘公衆トイレ" address="田辺市中辺路町栗栖川844" lat="33.785708" lng="135.507552"/>
+<marker no="37" category="tamoku" city="tanabe" name="虎ヶ峰公衆トイレ" address="田辺市龍神村柳瀬上笹ノ川1695-29" lat="33.858142" lng="135.462602" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="38" category="tamoku" city="tanabe" name="小菅公衆トイレ" address="田辺市龍神村福井地内" lat="33.895403" lng="135.439396" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="39" category="tamoku" city="tanabe" name="小家谷口公衆トイレ" address="田辺市龍神村小家地内" lat="33.925348" lng="135.414386" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="40" category="normal" city="tanabe" name="小家公衆トイレ" address="田辺市龍神村小家673" lat="33.933451" lng="135.427032"/>
+<marker no="41" category="tamoku" city="tanabe" name="田辺梅林公衆トイレ" address="田辺市上芳養石神地内" lat="33.823818" lng="135.408037" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="42" category="tamoku" city="tanabe" name="高山寺公衆トイレ" address="田辺市稲成町392" lat="33.740224" lng="135.378167" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="43" category="tamoku" city="tanabe" name="ひき岩群国民休養地公衆トイレ" address="稲成町字動鳴気1627-1" lat="33.764612" lng="135.381893" baby="" hot="" bed="" osto="" />
+<marker no="44" category="tamoku" city="tanabe" name="近畿自然歩道奇絶峡公衆トイレ" address="田辺市上秋津1416" lat="33.781188" lng="135.412215" baby="乳幼児用設備" hot="" bed="" osto="" />
+<marker no="45" category="tamoku" city="tanabe" name="紀州備長炭記念公園" address="田辺市秋津川1491-1" lat="33.803251" lng="135.427238" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="46" category="tamoku" city="tanabe" name="百間山公衆トイレ" address="田辺市熊野地内" lat="33.713784" lng="135.616681" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="47" category="normal" city="tanabe" name="三越峠公衆トイレ" address="田辺市中辺路町道湯川地内" lat="33.848523" lng="135.697030"/>
+<marker no="48" category="tamoku" city="tanabe" name="天神崎元島防波堤前公衆トイレ" address="田辺市目良1500-3" lat="33.729443" lng="135.351505" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="49" category="tamoku" city="tanabe" name="天神崎丸山灯台前公衆トイレ" address="田辺市天神崎1462" lat="33.726688" lng="135.353702" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="50" category="tamoku" city="tanabe" name="三川公衆トイレ" address="田辺市合川637-16" lat="33.689474" lng="135.568402" baby="" hot="" bed="" osto="" />
+<marker no="51" category="tamoku" city="tanabe" name="JR紀伊田辺駅前公衆トイレ" address="田辺市湊953-1" lat="33.732738" lng="135.384442" baby="" hot="" bed="" osto="" />
+<marker no="52" category="tamoku" city="tanabe" name="川湯野営場公衆トイレ1" address="田辺市本宮町川湯1288" lat="33.812609" lng="135.774869" baby="" hot="" bed="" osto="" />
+<marker no="53" category="tamoku" city="tanabe" name="川湯野営場公衆トイレ2" address="田辺市本宮町川湯1288" lat="33.812870" lng="135.776521" baby="" hot="" bed="" osto="" />
+<marker no="1" category="tamoku" city="wakayama" name="友ヶ島野奈浦公衆トイレ" address="和歌山市加太字笘ヶ沖島2673-3" lat="34.282891" lng="135.008677" baby="" hot="" bed="" osto="" />
+<marker no="2" category="normal" city="wakayama" name="友ヶ島南垂水公衆トイレ" address="和歌山市加太字笘ヶ沖島2673-1" lat="34.282550" lng="135.013597"/>
+<marker no="3" category="normal" city="wakayama" name="友ヶ島池尻公衆トイレ" address="和歌山市加太字笘ヶ沖島2673-1" lat="34.280810" lng="135.002010"/>
+<marker no="4" category="tamoku" city="wakayama" name="友ヶ島第３砲台跡下公衆トイレ" address="和歌山市深山105" lat="34.2798635" lng="135.007763" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="5" category="tamoku" city="wakayama" name="加太大波止公衆トイレ" address="和歌山市加太118" lat="34.274064" lng="135.066396" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="6" category="tamoku" city="wakayama" name="深山海岸公衆トイレ" address="和歌山市深山地内" lat="34.288084" lng="135.071741"/>
+<marker no="7" category="tamoku" city="wakayama" name="加太海岸公衆トイレ" address="和歌山市加太地先" lat="34.276639" lng="135.073606" baby="乳幼児用設備" hot="" bed="" osto="" />
+<marker no="8" category="tamoku" city="wakayama" name="磯の浦海水浴場公衆トイレ（西）" address="和歌山市磯の浦379番地先" lat="34.259729" lng="135.094753" baby="乳幼児用設備" hot="" bed="" osto="" />
+<marker no="9" category="tamoku" city="wakayama" name="和歌浦公衆トイレ" address="和歌山市新和歌浦1-1" lat="34.187586" lng="135.161332" baby="乳幼児用設備" hot="" bed="" osto="" />
+<marker no="10" category="normal" city="wakayama" name="加太船着場公衆トイレ" address="和歌山市加太地先" lat="34.274964" lng="135.070282"/>
+<marker no="11" category="tamoku" city="wakayama" name="和歌山公園内西の丸公衆トイレ" address="和歌山市一番丁3番地内" lat="34.229036" lng="135.170653" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="12" category="normal" city="wakayama" name="和歌山公園内砂の丸公衆トイレ" address="和歌山市一番丁3番地内" lat="34.227578" lng="135.169570"/>
+<marker no="13" category="tamoku" city="wakayama" name="和歌山公園内不明門公衆トイレ" address="和歌山市一番丁3番地内" lat="34.226758" lng="135.171460" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="14" category="normal" city="wakayama" name="和歌山公園内動物園公衆トイレ" address="和歌山市一番丁3番地内" lat="34.226690" lng="135.172788"/>
+<marker no="15" category="tamoku" city="wakayama" name="和歌山公園内桜林（岡口門北）公衆トイレ" address="和歌山市一番丁3番地内" lat="34.227162" lng="135.174119" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="16" category="normal" city="wakayama" name="和歌山公園内桃林（伏虎像東）公衆トイレ" address="和歌山市一番丁3番地内" lat="34.228307" lng="135.174134"/>
+<marker no="17" category="normal" city="wakayama" name="和歌山公園内二の丸公衆トイレ" address="和歌山市一番丁3番地内" lat="34.229428" lng="135.173025"/>
+<marker no="18" category="normal" city="wakayama" name="和歌山公園内天守閣前広場公衆トイレ" address="和歌山市一番丁3番地内" lat="34.227175" lng="135.171481"/>
+<marker no="19" category="normal" city="wakayama" name="和歌山公園内天守閣中庭公衆トイレ" address="和歌山市一番丁3番地内" lat="34.227545" lng="135.171243"/>
+<marker no="20" category="tamoku" city="wakayama" name="浜の宮ビーチ公衆トイレ2" address="和歌山市毛見地内" lat="34.163408" lng="135.183293" baby="" hot="" bed="" osto="" />
+<marker no="21" category="tamoku" city="wakayama" name="浜の宮ビーチ公衆トイレ3" address="和歌山市毛見地内" lat="34.162126" lng="135.183476" baby="" hot="" bed="" osto="" />
+<marker no="22" category="normal" city="wakayama" name="JR和歌山駅西口公衆トイレ" address="和歌山市美園町5-61" lat="34.232533" lng="135.191105"/>
+<marker no="23" category="tamoku" city="wakayama" name="JR和歌山駅東口公衆トイレ" address="和歌山市太田1丁目15-3" lat="34.232486" lng="135.192017"/>
+<marker no="24" category="tamoku" city="wakayama" name="深山観光広場公衆トイレ" address="和歌山市深山105" lat="34.290370" lng="135.074549" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="25" category="tamoku" city="wakayama" name="磯の浦海水浴場公衆トイレ（東）" address="和歌山市磯の浦" lat="34.259335" lng="135.095823" baby="" hot="温水洗浄便座" bed="" osto=""/>
+<marker no="26" category="tamoku" city="wakayama" name="マリーナシティー公衆トイレ" address="和歌山市毛見1538" lat="34.154474" lng="135.177759" baby="" hot="" bed="" osto="" />
+<marker no="27" category="tamoku" city="wakayama" name="紀三井寺公園内テニスコート付近公衆トイレ" address="和歌山市毛見200" lat="34.167247" lng="135.190343" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="28" category="tamoku" city="wakayama" name="和歌山大学前駅前公衆トイレ" address="和歌山市中575-3" lat="34.276367" lng="135.147021" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="29" category="tamoku" city="wakayama" name="紀三井寺緑道亀の川付近公衆トイレ" address="和歌山市毛見200" lat="34.168775" lng="135.188509" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="34" category="tamoku" city="wakayama" name="河西公園公衆トイレA棟" address="和歌山市西庄地内" lat="34.247282" lng="135.117772" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="35" category="tamoku" city="wakayama" name="河西公園公衆トイレB棟" address="和歌山市西庄地内" lat="34.248667" lng="135.114834" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="36" category="tamoku" city="wakayama" name="河西公園公衆トイレC棟" address="和歌山市西庄地内" lat="34.250009" lng="135.112515" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="37" category="tamoku" city="wakayama" name="河西公園公衆トイレD棟" address="和歌山市西庄地内" lat="34.251377" lng="135.110400" baby="乳幼児用設備" hot="温水洗浄便座" bed="" osto="" />
+<marker no="38" category="tamoku" city="wakayama" name="河西公園公衆トイレE棟" address="和歌山市西庄地内" lat="34.252772" lng="135.106439" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="39" category="tamoku" city="wakayama" name="河西公園公衆トイレF棟" address="和歌山市西庄地内" lat="34.253945" lng="135.105591" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="40" category="tamoku" city="wakayama" name="河西公園公衆トイレG棟" address="和歌山市西庄地内" lat="34.256410" lng="135.100953" baby="" hot="" bed="" osto="" />
+<marker no="41" category="tamoku" city="wakayama" name="河西公園水泳場便所棟（プール内）" address="和歌山市西庄地内" lat="34.254358" lng="135.104569"/>
+<marker no="42" category="tamoku" city="wakayama" name="河西公園水泳場便所棟（更衣室）" address="和歌山市西庄地内" lat="34.254794" lng="135.104108" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="43" category="tamoku" city="wakayama" name="8の字公園公衆トイレ" address="和歌山市和歌浦南3-4" lat="34.186305" lng="135.168713" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="44" category="normal" city="wakayama" name="8の字公園（東出）公衆トイレ" address="和歌山市和歌浦南2-3" lat="34.187702" lng="135.166333"/>
+<marker no="45" category="tamoku" city="wakayama" name="御手洗池公衆トイレ" address="和歌山市和歌浦西2" lat="34.190159" lng="135.166432" baby="" hot="" bed="" osto="" />
+<marker no="46" category="tamoku" city="wakayama" name="親子つりパーク公衆トイレ" address="和歌山市田野101-3" lat="34.188386" lng="135.148248" baby="" hot="" bed="" osto="" />
+<marker no="47" category="tamoku" city="wakayama" name="浪早ビーチ公衆トイレ" address="和歌山市田野地内" lat="34.183751" lng="135.150273" baby="" hot="" bed="" osto="" />
+<marker no="48" category="tamoku" city="wakayama" name="浜の宮ビーチ公衆トイレ1" address="和歌山市毛見地内" lat="34.165208" lng="135.182975" baby="" hot="" bed="" osto="" />
+<marker no="49" category="tamoku" city="wakayama" name="片男波公園駐車場公衆トイレ" address="和歌山市和歌浦南3-1700-2" lat="34.183210" lng="135.172265" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="50" category="tamoku" city="wakayama" name="片男波公園公衆トイレ" address="和歌山市和歌浦南3-1700-2" lat="34.178610" lng="135.175141" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="1" category="tamoku" city="yuasa" name="JR湯浅駅前公衆トイレ" address="湯浅町湯浅1052" lat="34.033067" lng="135.179702" baby="" hot="温水洗浄便座" bed="" osto="" />
+<marker no="2" category="tamoku" city="yuasa" name="田海岸公衆トイレ" address="湯浅町田地先" lat="34.055115" lng="135.147123" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="3" category="tamoku" city="yuasa" name="小浜海岸公衆トイレ" address="湯浅町田1232-2" lat="34.050301" lng="135.148704" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="4" category="normal" city="yuasa" name="築港公衆トイレ" address="湯浅町湯浅地先" lat="34.037202" lng="135.167015"/>
+<marker no="5" category="tamoku" city="yuasa" name="北の町老人憩いの家公衆トイレ" address="湯浅町大字湯浅709-2" lat="34.037485" lng="135.176661" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="6" category="tamoku" city="yuasa" name="栖原海岸公衆トイレ" address="湯浅町栖原951番地先" lat="34.045541" lng="135.161357" baby="" hot="温水洗浄便座" bed="" osto="オストメイト"/>
+<marker no="7" category="normal" city="yuasa" name="吉川老人憩いの家公衆トイレ" address="湯浅町大字吉川923?1" lat="34.0501" lng="135.18371"/>
+<marker no="1" category="tamoku" city="yura" name="阿戸公衆トイレ" address="由良町阿戸1002-37" lat="33.956145" lng="135.111419" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="2" category="normal" city="yura" name="白崎海洋公園パークセンター内公衆トイレ" address="由良町大引960-1" lat="33.977084" lng="135.072377"/>
+<marker no="3" category="tamoku" city="yura" name="吹井公衆トイレ" address="由良町神谷地内" lat="33.957866" lng="135.095876" baby="" hot="" bed="" osto="" />
+<marker no="4" category="tamoku" city="yura" name="神谷公衆トイレ" address="由良町神谷466-2" lat="33.957583" lng="135.090014" baby="" hot="" bed="" osto="" />
+<marker no="5" category="tamoku" city="yura" name="汐入橋公衆トイレ" address="由良町大引780-5" lat="33.967095" lng="135.086703" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="6" category="tamoku" city="yura" name="大引漁港内公衆トイレ（大引西出公衆トイレ）" address="由良町大引616-1" lat="33.970046" lng="135.082777"/>
+<marker no="7" category="tamoku" city="yura" name="白崎万葉公園公衆トイレ" address="由良町大引956-5" lat="33.971984" lng="135.079348" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="8" category="tamoku" city="yura" name="白崎海洋公園内公衆トイレ（パークセンター側）" address="由良町大引960-1" lat="33.976368" lng="135.072243" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="9" category="tamoku" city="yura" name="白崎海洋公園公衆トイレ（オートキャンプ場側）" address="由良町大引960-1" lat="33.976626" lng="135.070388" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="10" category="tamoku" city="yura" name="小引農村広場公衆トイレ" address="由良町小引543" lat="33.978767" lng="135.088693" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="11" category="tamoku" city="yura" name="戸津井公衆トイレ" address="由良町戸津井187-3" lat="33.988474" lng="135.094110" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="12" category="tamoku" city="yura" name="漁港美化推進施設公衆トイレ（衣奈公衆トイレ）" address="由良町衣奈43-9" lat="33.990651" lng="135.105673" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+<marker no="13" category="tamoku" city="yura" name="ゆらっと紀州公衆トイレ" address="由良町中257" lat="33.97418581" lng="135.13857365" baby="" hot="温水洗浄便座" bed="" osto="オストメイト"/>
+<marker no="14" category="tamoku" city="yura" name="町民公園公衆トイレ" address="由良町吹井910-1" lat="33.971207" lng="135.111491" baby="" hot="温水洗浄便座" bed="" osto="オストメイト" />
+</markers>
